@@ -1,0 +1,12 @@
+{
+  "name": "pym-tech-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página web de PyM Tech con fotografías en resolución original",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
